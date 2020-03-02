@@ -1,7 +1,7 @@
 Semaine 2 : Back to back-end
 ===
 
-![center](/home/elbabili/Boostnote/notes/back.jpeg)
+![center](/back.jpeg)
 
 <h2>Lundi</h2>
 
