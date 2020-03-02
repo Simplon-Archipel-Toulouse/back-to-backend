@@ -19,7 +19,7 @@ Semaine 2 : Back to back-end
 
 5.5 Afficher votre table des produits
 
-5.6 Ne préciser pas l'id, que se passe-t-il ?
+5.6 Ne préciser pas l'id en ajoutant un produit, que se passe-t-il ?
 
 5.7 Ne préciser pas le prix et la quantité, qu'observez-vous ? comment résoudre ces pb ?
 
