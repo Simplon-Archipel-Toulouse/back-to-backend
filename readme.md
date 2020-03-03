@@ -63,11 +63,11 @@ Semaine 2 : Back to back-end
 
 7.1 Démarrer votre serveur puis tester le en affichant un message de bienvenu
 
-7.2 Récupérer le nom de l'utilisateur (toto) en paramètre de l'url pour afficher : "Welcome toto"
+7.2 Récupérer le nom de l'utilisateur (toto) en paramètre de l'url pour afficher : "Welcome toto" (Utiliser http, url, queryString)
 
 7.3 A l'aide d'express, mettre en oeuvre une route par défaut qui affiche : "hello express" par ex
 
-7.4 Ajouter une route qui récupère une valeur tel un code et affiche votre nom + email + code
+7.4 Ajouter une route qui récupère une valeur en paramètre tel un code et affiche votre nom + email + code
 
 7.5 Configurer le debugger de VSC puis tester en ajoutant des points d'arrêt
 
