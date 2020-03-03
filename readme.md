@@ -109,7 +109,7 @@ Internet of things avec Aurelien
 
 **Veille sur Ajax**
 
-**Appli fil rouge : étape 3/fullstack**
+**Appli fil rouge : étape 4/fullstack**
 
 Il s'agit ici de faire les appels à partir du front sur l'api côté back afin de récuperer les données en base et les afficher sur notre page web conformément aux besoins
 
@@ -119,7 +119,7 @@ Il s'agit ici de faire les appels à partir du front sur l'api côté back afin 
 
 **MasterClass Laurent : Numérique responsable**
 
-**Appli fil rouge : étape 4/prod**
+**Appli fil rouge : étape 5/prod**
 
 Une fois que votre appli est fonctionnelle, vous pourrez apporter un confort visuel et ergonomique à l'aide de bootstrap et jQuery
 
