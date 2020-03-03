@@ -76,13 +76,13 @@ Semaine 2 : Back to back-end
 - Mise en oeuvre d'un serveur
 
 - Mise en oeuvre des routes correspondants aux services web :
-      
-      -> ajouter produit
-      -> liste des produits
-      -> retrouver un produit par son id
-      -> mettre à jour un produit
-      -> supprimer un produit
-      -> supprimer tous les produits
+
+      -> ajouter produit : app.post("/products", products.create);
+      -> liste des produits : app.get("/products", products.findAll);
+      -> retrouver un produit par son id : app.get("/products/:productId", products.findOne);
+      -> mettre à jour un produit : app.put("/products/:productId", products.update);
+      -> supprimer un produit : app.delete("/products/:productId", products.delete);
+      -> supprimer tous les produits : app.delete("/products", products.deleteAll);
 
 - Mise en ouvre d'un controller
 
@@ -96,7 +96,7 @@ Semaine 2 : Back to back-end
 
 **Install d'un client Rest et test de l'api sur toutes les fonctionnalités (CRUD)**
 
-- Ajouter un produit (Create)
+- Ajouter un produit 
 
 - Renvoyer liste des produits (Read All)
 
