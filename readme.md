@@ -75,7 +75,14 @@ Semaine 2 : Back to back-end
 
 - Mise en oeuvre d'un serveur
 
-- Mise en oeuvre des routes correspondants aux services web
+- Mise en oeuvre des routes correspondants aux services web :
+      
+      -> ajouter produit
+      -> liste des produits
+      -> retrouver un produit par son id
+      -> mettre à jour un produit
+      -> supprimer un produit
+      -> supprimer tous les produits
 
 - Mise en ouvre d'un controller
 
